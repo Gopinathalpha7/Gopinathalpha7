@@ -90,7 +90,7 @@ I am a **Data Scientist** passionate about **Transforming data into actionable i
 </a>
 
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="30" height="30"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="30"/> 
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/> 
@@ -102,13 +102,13 @@ I am a **Data Scientist** passionate about **Transforming data into actionable i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="30" height="30"/> 
 </a>
 <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/explosion/spaCy/311f7cc9fbd44e3de14fa673fa9c5146ea223624/website/src/images/logo.svg" alt="spacy" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/explosion/spaCy/311f7cc9fbd44e3de14fa673fa9c5146ea223624/website/src/images/logo.svg" alt="spacy" width="75" height="30"/> 
 </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="30" height="30"/> 
 </a>
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.mlflow.org/docs/1.20.2/_static/MLflow-logo-final-black.png" alt="mlflow" width="30" height="30"/> 
+  <img src="https://www.mlflow.org/docs/1.20.2/_static/MLflow-logo-final-black.png" alt="mlflow" width="70" height="30"/> 
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -125,14 +125,14 @@ I am a **Data Scientist** passionate about **Transforming data into actionable i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="30" height="30"/> 
 </a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="30" height="30"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="60" height="30"/> 
 </a>
 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="30" height="30"/> 
 </a>
 <a href="https://www.amazon.com/webservices" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="30" height="30"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="30"/> 
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="30" height="30"/> 
@@ -151,5 +151,5 @@ I am a **Data Scientist** passionate about **Transforming data into actionable i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="30" height="30"/> 
 </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="google colab" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="google colab" width="50" height="30"/> 
 </a>
