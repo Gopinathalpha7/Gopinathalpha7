@@ -43,8 +43,10 @@ I am a **Data Scientist** passionate about **Transforming data into actionable i
 
 ## 💼 Experience
 - **Jr. Design Requirement Analyst** at Vectra Automation (Nov 2023 - Present)
-  - Worked on analyzing design requirements and coordinating with cross-functional teams to ensure alignment with project goals.
-
+  - Extracted and processed key data from complex 3D models, applying statistical analysis to identify key performance indicators (KPIs) and support automation development workflows.
+  - Developed custom logic and configuration files for the Auto2D tool, enabling automated 2D view and drawing generation from 3D models.
+  - Contributed to a machine learning powered robotic process automation (RPA) system for engineering drawing creation, leveraging the Auto2D custom built tool to streamline automation.
+  - Improved drawing automation accuracy, enhanced design precision, and optimized workflows through the application of intelligent automation techniques.
 ---
 
 ## 🎓 Education
@@ -59,7 +61,7 @@ I am a **Data Scientist** passionate about **Transforming data into actionable i
 
 <a href='https://www.linkedin.com/in/gopinathaiml12/'><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" width="30"></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/gopinathaiml12/)
 
-<a href='mailto:gopinathaiml12@gmail.com'><img src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="Gmail" width="30"></a> [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:gopinathaiml12@gmail.com)
+<a href='mailto:gopinathaiml12@gmail.com'><img src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="Gmail" width="30"></a> [![Gmail](https://img.shields.io/badge/Gmail-gopinathaiml12@gmail.com-red)](mailto:gopinathaiml12@gmail.com)
 
 <a href='https://gopinathalpha7.github.io/Gopinath-Portfolio/'><img src="https://img.icons8.com/color/64/000000/web.png" alt="Portfolio" width="30"></a> [![Portfolio](https://img.shields.io/badge/Portfolio-Website-yellow)](https://gopinathalpha7.github.io/Gopinath-Portfolio/)
 
